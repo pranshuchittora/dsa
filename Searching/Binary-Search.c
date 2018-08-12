@@ -1,7 +1,7 @@
 /*
-=====================
+============================
 Developer : Pranshu Chittora
-=====================
+============================
 START
 Binary_Search ( ARR[] , lower_bound , upper_bound , K)
     Step 1 : BEG = lower_bound
