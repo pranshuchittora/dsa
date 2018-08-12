@@ -41,7 +41,7 @@ int main()
 {
 
     int arr[8] = {1, 2, 3, 4, 5, 6, 7, 8};
-    int n = 8, k = 15;
+    int n = 8, k = 5;
 
     Linear_Search(arr, n, k);
 
