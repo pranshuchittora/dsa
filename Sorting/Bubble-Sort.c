@@ -12,6 +12,11 @@ Bubble_Sort ( ARR[] , N)
             [END OF OUTER LOOP]
     Step 4 : EXIT 
 END
+_____________________
+
+Complexity
+O(n²)
+_____________________
 */
 
 #include <stdio.h>

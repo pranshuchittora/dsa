@@ -18,6 +18,11 @@ Linear_Search (ARR[] , N , K)
     [END OF IF]    
     Step 5 : EXIT 
 END
+_____________________
+
+Complexity
+O(n)
+_____________________
 */
 
 #include <stdio.h>

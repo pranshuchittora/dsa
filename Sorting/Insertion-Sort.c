@@ -15,6 +15,11 @@ Insertion_Sort ( ARR[] , N)
             [END OF LOOP]                
     Step 6 : EXIT        
 END
+_____________________
+
+Complexity
+O(n*(n-1)/2)
+_____________________
 */
 
 #include <stdio.h>
