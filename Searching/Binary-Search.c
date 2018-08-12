@@ -27,6 +27,11 @@ Binary_Search ( ARR[] , lower_bound , upper_bound , K)
         [END OF IF]
     Step 7 : EXIT 
 END
+_____________________
+
+Complexity
+O(log(n))
+_____________________
 */
 #include <stdio.h>
 void Binary_Search(int arr[], int lower_bound, int upper_bound, int k)
