@@ -1,16 +1,15 @@
 #include <stdio.h>
 
 // -----------------------
-
-int n = 100;
-int stack[100]; // Initialised Stack
+#define stack_size 100
+int stack[stack_size]; // Initialised Stack
 int top = -1;   // Currently the stack is empty so top is -1
 
 // -----------------------
 void push() // PUSH function is used to inser an element into the stack
 {
 
-    if (top + 1 >= n) // Check whether the stack is full or not
+    if (top + 1 >= stack_size) // Check whether the stack is full or not
         printf("Stack OVERFLOW :( \n Try POPing elements out\n");
     else
     {
